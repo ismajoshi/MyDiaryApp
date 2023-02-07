@@ -1,5 +1,9 @@
 # MyDiaryApp
 Diary App
+![Screenshot_1](https://user-images.githubusercontent.com/43886937/217355044-ad36539c-f0a6-44b4-b13b-a7581d95e98f.png)
+![Screenshot_2](https://user-images.githubusercontent.com/43886937/217355069-c730d917-8962-49a7-945c-e3bfb4090799.png)
+![Screenshot_3](https://user-images.githubusercontent.com/43886937/217355078-f74aa299-8466-4e18-8346-de1d7e16ad13.png)
+
 Group Project by : 
 Ismael Moreno 300323765
 Gerard Cajilig 300325001
